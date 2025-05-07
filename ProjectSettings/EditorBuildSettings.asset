@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/Egoitz Pi\xF1eiro/Scenes/Scene1.unity"
+    guid: 10ed659aa0f13214388a9376aebee7d4
+  - enabled: 1
+    path: "Assets/Egoitz Pi\xF1eiro/Scenes/New Scene.unity"
+    guid: 594e02bed7b6ca84aa762ed085e4c278
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8a1c7ef10f8b986499c19d44e0b1b642, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ed3d1ef1af53caa4394db1cdd32fde62, type: 2}
